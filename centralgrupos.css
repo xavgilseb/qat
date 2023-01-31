@@ -1,0 +1,39 @@
+body {
+    color: ghostwhite;
+    background-color: #05041C;
+    
+}
+body {   
+    background-color: #05041C;
+    
+}
+p {
+    font-style: oblique;
+    font-size: 40px;
+}
+a{
+    color: grey;
+    font-size: 20px;
+}
+img {
+    margin-top: 100px;
+    margin-left: 500px;
+
+}
+table {
+    border-spacing: 0px 10px;
+    font-size: 30px;
+    border: rgb(255, 255, 255) 6px solid;
+    margin-left: 675PX;
+    
+  }
+th{
+    border-bottom:red 6px solid ;
+}
+td{
+    padding:0px 30px ;
+}
+td.final{
+    border-bottom: white 6px solid;
+}
+

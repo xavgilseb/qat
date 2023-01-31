@@ -1,0 +1,14 @@
+body {
+    color: ghostwhite;
+    background-color: #05041C;
+    
+}
+
+p {
+    font-style: oblique;
+    font-size: 40px;
+}
+a{
+    color: grey;
+    font-size: 20px;
+}

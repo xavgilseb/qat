@@ -1,0 +1,52 @@
+p{
+    font-style: oblique;
+    font-size: 40px;
+}
+a{
+    color: grey;
+    font-size: 20px;
+}
+p.pararg{
+    font-size: 20px;
+}
+div.arg{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+div.textarg{
+    width: 50%;
+}
+img.imgarg{
+    margin-top: -70px;
+    margin-left: 30px;
+}
+p.titarg{
+    font-size: 100px;   
+}
+p.premind{
+    font-size: 70px;
+}
+p.titmba{
+    font-size: 100px;
+}
+div.mba{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+div.mbatext{
+    width: 50%;
+}
+img.imgmba{
+    margin-top: 80px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+}
+p.parmba{
+    font-size: 20px;
+}
+img.imgenz{
+    margin-top: 80px;
+    margin-left: 30px;
+}
